@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="NEWgame" type="id">NEWgame</item>
+    <item name="ABOUTgame" type="id">ABOUTgame</item>
+    <item name="HighScoregame" type="id">HighScoregame</item>
+    <item name="LEVELgame" type="id">LEVELgame</item>
+    <item name="gamescreen" type="id">gamescreen</item>
+    <item name="BG" type="id">BG</item>
+    <item name="LINgame" type="id">LINgame</item>
+    <item name="TIMgame" type="id">TIMgame</item>
+    <item name="SCRgame" type="id">SCRgame</item>
+    <item name="PASgame" type="id">PASgame</item>
+    <item name="CIRClgame" type="id">CIRClgame</item>
+    <item name="FRMgame" type="id">FRMgame</item>
+    <item name="Uscore" type="id">Uscore</item>
+    <item name="UHscore" type="id">UHscore</item>
+    <item name="Hscore" type="id">Hscore</item>
+    <item name="TXTUscore" type="id">TXTUscore</item>
+    <item name="TXTHscore" type="id">TXTHscore</item>
+    <item name="hscore" type="id">hscore</item>
+    <item name="ARROWgame" type="id">ARROWgame</item>
+    <item name="TARGETgame" type="id">TARGETgame</item>
+    <item name="LEVELgmae" type="id">LEVELgmae</item>
+    <item name="Halfcircle" type="id">Halfcircle</item>
+</resources>
